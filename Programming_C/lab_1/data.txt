@@ -1,0 +1,5 @@
+idowser owser        car        cash($)     crush
+124     Pupkinsssssssss      Lada	120000.5312   N
+45      Kamashin    Volvo	350999.1235   Y
+12      Perlov      Ferrari	1200000.44    N
+1       Murkin      123	69004.715     N

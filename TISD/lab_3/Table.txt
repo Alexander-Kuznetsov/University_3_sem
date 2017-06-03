@@ -1,0 +1,41 @@
+Surname    	Book     		Publishing 	NumLes    Type       Genre   industry     National Translate Year
+Borisov    	FORTRAN  		BMSTU      	43        Technical          Programming  Yes      Yes       1995
+Belousov   	Discrete_Math		BMSTU	   	410	  Technical          Mathematics  Yes	   No        1992
+Pupkin     	Boooking		LoL        	4444   	  Art	      Play
+Vasilev    	Physic			BMSTU	   	130	  Technical          Physics	  Yes	   No	     2005
+Lomovskoy  	Programming_C		BMSTU      	551	  Technical          Programming  Yes      No        2013
+Kondratiev      Russian_language	DROFA	   	330       Technical          Language	  Yes      No	     2007
+Utochkina	Cooking                 Obshaga	   	228	  Technical          Cooking	  Yes	   No	     2015
+Buevich         Study_in_BMSTU		BMSTU	   	1488	  Art	      Novel
+Pushkin         Collection_poems	DROFA	   	555	  Art	      Poems
+Kolobkov	Green_day		PROSVESHENIE	140	  Art	      Play
+Borisov         Pascal			BMSTU		40	  Technical          Progamming   Yes	   No	     1993
+Minacheva       Cooking_cakes		UlSPU           541	  Art         Novel
+Gubkin          OIL			EKSMO		400	  Technical          Oil	  Yes	   No	     1985
+Jardin          Feling_trees		EKSMO		114	  Technical          WoodWorking  Yes	   No	     1879
+Rouling         Harry_Potter		Roul		403	  Art	      Novel
+Kolkin          blablabla		kek		404	  Art	      Poems
+Igolkin         blamblamblam		kekco		10	  Art	      Play
+Dochkin         Physics			DROFA		4	  Technical          Physics	  Yes	   No	     1999
+Lovkiy          pppppppppppp		kekalka		999	  Art	      Play
+Zorkiy          Driving_car		GIBDD		303       Technical          Driving	  No	   Yes	     1955
+Zyblik          Swimming		AZBUKA		159	  Technical          Swimming	  No       Yes	     2000
+Zubin           Medicine		AZBUKA		109	  Technical          Medicine	  No       Yes	     1941
+Konskiy         Skating			AST		110	  Technical          Skating	  Yes      No	     1998
+Pesiy           English_language	AIST		385	  Technical          Language	  No       Yes	     2000
+Krilov          hapepepe		DROFA		1231	  Technical	     Language	  No       Yes	     1955
+Kamushkin	Germany_language	GELIOS		189	  Technical	     Language	  No       Yes	     2003
+Snow		Cooking_chicken		TIME		159	  Technical	     Cooking	  No       Yes	     2000
+Kudusov         Programming		SLOVO		1100	  Technical	     Programming  Yes      No	     2009
+Kilgovatova	Adventure		TEXT		102	  Art	      Poems
+Kapriyan	Good_job		SOLOVEY		111	  Art	      Play
+Kamashin	This_day		SLOVO		140	  Art	      Play
+Napreev         Sunday			TEXT		150	  Art	      Novel
+Leksin          My_good_holiday		FORUM		300	  Art	      Poems
+Buevich         Repair_phone		LOL		45	  Technical	     Repairing	  Yes      Yes	     1984
+Kamakin         Repair_computer		Kek		95	  Technical	     Repairing	  No       No	     1988
+Kiryanov	Repar_Lada		EKSMO		249	  Technical	     Repairing	  No       Yes	     2015
+Polkin          Pool			DROFA		211	  Art	      Play
+Tolkin          Bolt			LOL		294	  Art	      Play
+Tolkin          Industry		AIST		19	  Art	      Poems
+Vonskiy         Japan_language		GELIOS		159	  Technical	     Language	  Yes      No	     2016

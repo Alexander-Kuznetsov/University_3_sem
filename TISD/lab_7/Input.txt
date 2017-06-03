@@ -1,0 +1,42 @@
+int
+integer type
+float
+floating type
+char
+character type
+string
+array of char(charachers)
+bool
+boolean type
+class
+declaration of a class
+void
+void* type
+while
+while loop
+for
+for loop
+short
+integer type -32768..32767
+long
+integer type -2147483648..2147483647
+new
+C++ memory allocation expression
+return
+declaration of function return statement
+if
+declaration of the condition statement
+double
+double type
+struct
+declaration of structure
+break
+declaration of loop break statement
+using
+block using
+const
+constant
+public
+public type
+private
+private type

@@ -1,0 +1,22 @@
+digraph BINAR_TREE {
+while -> void;
+using -> while;
+using -> struct;
+struct -> string;
+short -> using;
+short -> private;
+return -> public;
+private -> return;
+private -> new;
+long -> short;
+long -> const;
+int -> if;
+for -> int;
+for -> float;
+float -> double;
+const -> for;
+const -> break;
+class -> char;
+break -> class;
+break -> bool;
+}

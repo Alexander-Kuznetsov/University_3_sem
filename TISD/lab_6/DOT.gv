@@ -1,0 +1,18 @@
+digraph BINAR_TREE {
+aircraft -> food;
+automobile -> bottle;
+breakfest -> automobile;
+breakfest -> car;
+car -> door;
+eat -> breakfest;
+eat -> engine;
+food -> eat;
+food -> mobile;
+light -> honor;
+mobile -> light;
+mobile -> room;
+pen -> oil;
+pen -> pencil;
+room -> pen;
+¨ýb [color=red];
+}
